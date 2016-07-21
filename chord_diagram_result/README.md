@@ -1,4 +1,4 @@
-# Paralell Coordinates
+# Chord Diagrams
 
 Como recomienda youtube los videos entre categorias
 
