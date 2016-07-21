@@ -1,0 +1,226 @@
+category,related,count
+Autos & Vehicles,Autos & Vehicles,45222
+Autos & Vehicles,Comedy,1628
+Autos & Vehicles,Entertainment,4617
+Autos & Vehicles,Film & Animation,801
+Autos & Vehicles,Gadgets & Games,0
+Autos & Vehicles,Howto & Style,1026
+Autos & Vehicles,Music,885
+Autos & Vehicles,News & Politics,990
+Autos & Vehicles,People & Blogs,1673
+Autos & Vehicles,Pets & Animals,137
+Autos & Vehicles,Sports,2612
+Autos & Vehicles,Travel & Events,804
+Autos & Vehicles,Nonprofits & Activism,14
+Autos & Vehicles,Science & Technology,359
+Autos & Vehicles,Education,56
+Comedy,Autos & Vehicles,1723
+Comedy,Comedy,131187
+Comedy,Entertainment,43540
+Comedy,Film & Animation,10898
+Comedy,Gadgets & Games,0
+Comedy,Howto & Style,3154
+Comedy,Music,17106
+Comedy,News & Politics,6673
+Comedy,People & Blogs,15526
+Comedy,Pets & Animals,4470
+Comedy,Sports,4828
+Comedy,Travel & Events,1212
+Comedy,Nonprofits & Activism,383
+Comedy,Science & Technology,940
+Comedy,Education,825
+Entertainment,Autos & Vehicles,4690
+Entertainment,Comedy,43996
+Entertainment,Entertainment,367896
+Entertainment,Film & Animation,32064
+Entertainment,Gadgets & Games,0
+Entertainment,Howto & Style,17776
+Entertainment,Music,63565
+Entertainment,News & Politics,8633
+Entertainment,People & Blogs,30691
+Entertainment,Pets & Animals,3386
+Entertainment,Sports,12277
+Entertainment,Travel & Events,3225
+Entertainment,Nonprofits & Activism,842
+Entertainment,Science & Technology,7740
+Entertainment,Education,2052
+Film & Animation,Autos & Vehicles,893
+Film & Animation,Comedy,10995
+Film & Animation,Entertainment,34075
+Film & Animation,Film & Animation,88574
+Film & Animation,Gadgets & Games,0
+Film & Animation,Howto & Style,2751
+Film & Animation,Music,17221
+Film & Animation,News & Politics,2116
+Film & Animation,People & Blogs,6865
+Film & Animation,Pets & Animals,1021
+Film & Animation,Sports,1122
+Film & Animation,Travel & Events,924
+Film & Animation,Nonprofits & Activism,208
+Film & Animation,Science & Technology,797
+Film & Animation,Education,469
+Gadgets & Games,Autos & Vehicles,0
+Gadgets & Games,Comedy,0
+Gadgets & Games,Entertainment,0
+Gadgets & Games,Film & Animation,0
+Gadgets & Games,Gadgets & Games,0
+Gadgets & Games,Howto & Style,0
+Gadgets & Games,Music,0
+Gadgets & Games,News & Politics,0
+Gadgets & Games,People & Blogs,0
+Gadgets & Games,Pets & Animals,0
+Gadgets & Games,Sports,0
+Gadgets & Games,Travel & Events,0
+Gadgets & Games,Nonprofits & Activism,0
+Gadgets & Games,Science & Technology,0
+Gadgets & Games,Education,0
+Howto & Style,Autos & Vehicles,1088
+Howto & Style,Comedy,3429
+Howto & Style,Entertainment,18797
+Howto & Style,Film & Animation,2732
+Howto & Style,Gadgets & Games,0
+Howto & Style,Howto & Style,45117
+Howto & Style,Music,2867
+Howto & Style,News & Politics,2841
+Howto & Style,People & Blogs,5693
+Howto & Style,Pets & Animals,674
+Howto & Style,Sports,891
+Howto & Style,Travel & Events,664
+Howto & Style,Nonprofits & Activism,216
+Howto & Style,Science & Technology,4662
+Howto & Style,Education,1206
+Music,Autos & Vehicles,866
+Music,Comedy,15859
+Music,Entertainment,57292
+Music,Film & Animation,14498
+Music,Gadgets & Games,0
+Music,Howto & Style,2873
+Music,Music,516394
+Music,News & Politics,4389
+Music,People & Blogs,20327
+Music,Pets & Animals,1162
+Music,Sports,2858
+Music,Travel & Events,1816
+Music,Nonprofits & Activism,246
+Music,Science & Technology,582
+Music,Education,584
+News & Politics,Autos & Vehicles,997
+News & Politics,Comedy,7975
+News & Politics,Entertainment,9680
+News & Politics,Film & Animation,2224
+News & Politics,Gadgets & Games,0
+News & Politics,Howto & Style,2967
+News & Politics,Music,4905
+News & Politics,News & Politics,112148
+News & Politics,People & Blogs,9365
+News & Politics,Pets & Animals,904
+News & Politics,Sports,1150
+News & Politics,Travel & Events,1614
+News & Politics,Nonprofits & Activism,1606
+News & Politics,Science & Technology,1031
+News & Politics,Education,1558
+People & Blogs,Autos & Vehicles,1782
+People & Blogs,Comedy,17225
+People & Blogs,Entertainment,31975
+People & Blogs,Film & Animation,6765
+People & Blogs,Gadgets & Games,0
+People & Blogs,Howto & Style,5971
+People & Blogs,Music,22701
+People & Blogs,News & Politics,9513
+People & Blogs,People & Blogs,70689
+People & Blogs,Pets & Animals,1805
+People & Blogs,Sports,5032
+People & Blogs,Travel & Events,2144
+People & Blogs,Nonprofits & Activism,510
+People & Blogs,Science & Technology,1591
+People & Blogs,Education,1077
+Pets & Animals,Autos & Vehicles,135
+Pets & Animals,Comedy,4280
+Pets & Animals,Entertainment,3246
+Pets & Animals,Film & Animation,997
+Pets & Animals,Gadgets & Games,0
+Pets & Animals,Howto & Style,585
+Pets & Animals,Music,1181
+Pets & Animals,News & Politics,764
+Pets & Animals,People & Blogs,1489
+Pets & Animals,Pets & Animals,35006
+Pets & Animals,Sports,587
+Pets & Animals,Travel & Events,562
+Pets & Animals,Nonprofits & Activism,62
+Pets & Animals,Science & Technology,131
+Pets & Animals,Education,86
+Sports,Autos & Vehicles,2601
+Sports,Comedy,4998
+Sports,Entertainment,12463
+Sports,Film & Animation,1065
+Sports,Gadgets & Games,0
+Sports,Howto & Style,947
+Sports,Music,2942
+Sports,News & Politics,971
+Sports,People & Blogs,4834
+Sports,Pets & Animals,618
+Sports,Sports,115805
+Sports,Travel & Events,911
+Sports,Nonprofits & Activism,28
+Sports,Science & Technology,168
+Sports,Education,105
+Travel & Events,Autos & Vehicles,879
+Travel & Events,Comedy,1393
+Travel & Events,Entertainment,3494
+Travel & Events,Film & Animation,889
+Travel & Events,Gadgets & Games,0
+Travel & Events,Howto & Style,744
+Travel & Events,Music,2024
+Travel & Events,News & Politics,1550
+Travel & Events,People & Blogs,2288
+Travel & Events,Pets & Animals,788
+Travel & Events,Sports,995
+Travel & Events,Travel & Events,11136
+Travel & Events,Nonprofits & Activism,79
+Travel & Events,Science & Technology,283
+Travel & Events,Education,167
+Nonprofits & Activism,Autos & Vehicles,40
+Nonprofits & Activism,Comedy,545
+Nonprofits & Activism,Entertainment,1076
+Nonprofits & Activism,Film & Animation,253
+Nonprofits & Activism,Gadgets & Games,0
+Nonprofits & Activism,Howto & Style,245
+Nonprofits & Activism,Music,470
+Nonprofits & Activism,News & Politics,2058
+Nonprofits & Activism,People & Blogs,668
+Nonprofits & Activism,Pets & Animals,102
+Nonprofits & Activism,Sports,60
+Nonprofits & Activism,Travel & Events,105
+Nonprofits & Activism,Nonprofits & Activism,2245
+Nonprofits & Activism,Science & Technology,177
+Nonprofits & Activism,Education,312
+Science & Technology,Autos & Vehicles,483
+Science & Technology,Comedy,1134
+Science & Technology,Entertainment,9564
+Science & Technology,Film & Animation,883
+Science & Technology,Gadgets & Games,0
+Science & Technology,Howto & Style,5284
+Science & Technology,Music,747
+Science & Technology,News & Politics,1120
+Science & Technology,People & Blogs,1677
+Science & Technology,Pets & Animals,172
+Science & Technology,Sports,186
+Science & Technology,Travel & Events,334
+Science & Technology,Nonprofits & Activism,128
+Science & Technology,Science & Technology,18450
+Science & Technology,Education,624
+Education,Autos & Vehicles,94
+Education,Comedy,1122
+Education,Entertainment,2832
+Education,Film & Animation,579
+Education,Gadgets & Games,0
+Education,Howto & Style,1607
+Education,Music,854
+Education,News & Politics,2101
+Education,People & Blogs,1434
+Education,Pets & Animals,112
+Education,Sports,156
+Education,Travel & Events,198
+Education,Nonprofits & Activism,270
+Education,Science & Technology,740
+Education,Education,3822
