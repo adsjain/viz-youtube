@@ -15,6 +15,7 @@ svg {
 .foreground path {
   fill: none;
   stroke: steelblue;
+  stroke-opacity: .3;
 }
 
 .brush .extent {
@@ -37,7 +38,8 @@ svg {
 
 </style>
 <body>
-<script src="//d3js.org/d3.v3.min.js"></script>
+
+<script type='text/javascript' src="./d3.js"></script>
 <script>
 
 var margin = {top: 30, right: 10, bottom: 10, left: 10},
@@ -62,10 +64,42 @@ var svg = d3.select("body").append("svg")
 d3.csv("data.csv", function(error, cars) {
 
   // Extract the list of dimensions and create a scale for each.
+  var extent_views = [10000000,-1];
+  var extent_comments = [10000000,-1];
+
+  // Webeo para tener los mismos ejes
   x.domain(dimensions = d3.keys(cars[0]).filter(function(d) {
-    return d != "name" && (y[d] = d3.scale.linear()
-        .domain(d3.extent(cars, function(p) { return +p[d]; }))
-        .range([height, 0]));
+    var current_extent = d3.extent(cars, function(p) { return +p[d]; });
+    if (d == "views" || d == "related_views"){
+      if (extent_views[0] >= current_extent[0]) {
+        extent_views[0] = current_extent[0];
+      }
+      if (extent_views[1] <= current_extent[1]) {
+        extent_views[1] = current_extent[1];
+      }
+    } else {
+      if (extent_comments[0] >= current_extent[0]) {
+        extent_comments[0] = current_extent[0];
+      }
+      if (extent_comments[1] <= current_extent[1]) {
+        extent_comments[1] = current_extent[1];
+      }
+    }
+
+  }));
+
+  x.domain(dimensions = d3.keys(cars[0]).filter(function(d) {
+    // return d != "name" && (y[d] = d3.scale.linear()
+    if (d == "views" || d == "related_views"){
+      return (y[d] = d3.scale.sqrt()
+          .domain(extent_views)
+          .range([height, 0]));
+    }
+    else {
+      return (y[d] = d3.scale.sqrt()
+          .domain(extent_comments)
+          .range([height, 0]));
+    }
   }));
 
   // Add grey background lines for context.
